@@ -1,0 +1,4 @@
+En el corazón del Reino de Silicio existía una pequeña aldea llamada 
+Doc. Era un lugar tranquilo, oculto entre profundas carpetas del 
+sistema, donde los duendes del código solían guardar sus recuerdos 
+más preciados en pergaminos de texto plano llamados archivo.txt
