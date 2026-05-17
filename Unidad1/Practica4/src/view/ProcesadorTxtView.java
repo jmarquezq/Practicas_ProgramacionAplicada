@@ -10,8 +10,8 @@ import javax.swing.JButton;
 import java.awt.Font;
 import javax.swing.JTextArea;
 import javax.swing.JList;
-import javax.swing.DefaultListModel; // Necesario para manejar los datos
-import javax.swing.JScrollPane;     // Para que la lista tenga barrita de scroll
+import javax.swing.DefaultListModel; 
+import javax.swing.JScrollPane;     
 
 public class ProcesadorTxtView extends JFrame {
 
